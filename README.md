@@ -1,6 +1,10 @@
 # SuJpModAid
 Stories Untold 日本語化支援ツール
 
+使い方については、こちらのブログ記事を御覧ください。  
+[「synctam: Stories Untold 日本語化支援ツールの使い方」](https://synctam.blogspot.com/2020/01/stories-untold.html)
+
+
 ## SuSheetMaker
 
 	言語フォルダー内のXMLファイルから翻訳シートを作成する。
